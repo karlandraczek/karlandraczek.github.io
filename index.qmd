@@ -11,10 +11,10 @@ about:
   links:
   - icon: envelope
     text: Email
-    href: mailto:sagouis@pm.me
+    href: mailto:karlandraczek@idiv.de
   - icon: github
     text: Github
-    href: https://github.com/albansagouis
+    href: https://github.com/karlandraczek
   - icon: box-seam
     text: Zenodo
     href: https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Andraczek%2C%20Karl%22&l=list&p=1&s=10&sort=bestmatch
