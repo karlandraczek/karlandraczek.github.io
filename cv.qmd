@@ -1,6 +1,6 @@
 ---
 title: "My CV"
-title-block-banner: "assets/images/landscape_cundinamarca.jpg"
+title-block-banner: "assets/images/karl_main_image.jpg"
 toc: false
 listing:
   id: "dynamic-cv"
